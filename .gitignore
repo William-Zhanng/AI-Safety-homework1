@@ -1,0 +1,5 @@
+outdir
+CIFAR10data
+__pychche__
+test_acc_log
+plot_result.py
